@@ -1,0 +1,8 @@
+.appear{
+  margin: auto;
+  text-align: center;
+}
+
+.disappear{
+  display: none;
+}
